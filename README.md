@@ -42,19 +42,19 @@
     <tr>
       <td align="center" width="25%">
         <b>✨ Welcome Screen</b><br/><br/>
-        <img src="![alt text](image.png)" alt="Intro Screen" width="220" />
+        <![alt text](image-4.png) alt="Intro Screen" width="220" />
       </td>
       <td align="center" width="25%">
         <b>🛍️ Shop Catalog</b><br/><br/>
-        <![alt text](image-1.png) alt="Shop Screen" width="220" />
+        <![alt text](image-5.png) alt="Shop Screen" width="220" />
       </td>
       <td align="center" width="25%">
         <b>💬 Add to Cart Modal</b><br/><br/>
-        <![alt text](image-2.png) alt="Drawer" width="220" />
+        <![alt text](image-6.png) alt="Drawer" width="220" />
       </td>
       <td align="center" width="25%">
         <b>🛒 Cart & Checkout</b><br/><br/>
-        <![alt text](image-3.png) alt="Cart Screen" width="220" />
+        <![alt text](image-7.png) alt="Cart Screen" width="220" />
       </td>
     </tr>
   </table>
