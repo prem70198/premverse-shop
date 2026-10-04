@@ -42,25 +42,23 @@
     <tr>
       <td align="center" width="25%">
         <b>✨ Welcome Screen</b><br/><br/>
-        <![alt text](image-4.png) alt="Intro Screen" width="220" />
+        <img src="image-4.png" alt="Welcome Screen" width="220" />
       </td>
       <td align="center" width="25%">
         <b>🛍️ Shop Catalog</b><br/><br/>
-        <![alt text](image-5.png) alt="Shop Screen" width="220" />
+        <img src="image-5.png" alt="Shop Catalog" width="220" />
       </td>
       <td align="center" width="25%">
         <b>💬 Add to Cart Modal</b><br/><br/>
-        <![alt text](image-6.png) alt="Drawer" width="220" />
+        <img src="image-6.png" alt="Add to Cart Modal" width="220" />
       </td>
       <td align="center" width="25%">
         <b>🛒 Cart & Checkout</b><br/><br/>
-        <![alt text](image-7.png) alt="Cart Screen" width="220" />
+        <img src="image-7.png" alt="Cart Screen" width="220" />
       </td>
     </tr>
   </table>
 </p>
-
-> 💡 **Tip:** Place your exported device screenshots in the [`screenshots/`](screenshots/) directory (`intro_page.png`, `shop_page.png`, `dialog.png`, `cart_page.png`) to display them directly on GitHub.
 
 ---
 
